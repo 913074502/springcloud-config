@@ -1,1 +1,2 @@
-prd.yml
+config:
+  info: prd.test
